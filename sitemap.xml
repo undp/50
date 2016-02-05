@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://50.undp.org/</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/meeting</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/africa</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/arab-states</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/asia-pacific</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/europe-central-asia</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/en/latin-america-caribbean</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/fr/meeting</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://50.undp.org/es/meeting</loc>
+  <lastmod>2016-02-04T22:39:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+</urlset>
